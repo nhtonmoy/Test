@@ -1,0 +1,11 @@
+E:\VsCodeProjects\GIT\Test\DN_csv\bin\Debug\netcoreapp3.1\DN_csv.exe
+E:\VsCodeProjects\GIT\Test\DN_csv\bin\Debug\netcoreapp3.1\DN_csv.deps.json
+E:\VsCodeProjects\GIT\Test\DN_csv\bin\Debug\netcoreapp3.1\DN_csv.runtimeconfig.json
+E:\VsCodeProjects\GIT\Test\DN_csv\bin\Debug\netcoreapp3.1\DN_csv.runtimeconfig.dev.json
+E:\VsCodeProjects\GIT\Test\DN_csv\bin\Debug\netcoreapp3.1\DN_csv.dll
+E:\VsCodeProjects\GIT\Test\DN_csv\bin\Debug\netcoreapp3.1\DN_csv.pdb
+E:\VsCodeProjects\GIT\Test\DN_csv\obj\Debug\netcoreapp3.1\DN_csv.csprojAssemblyReference.cache
+E:\VsCodeProjects\GIT\Test\DN_csv\obj\Debug\netcoreapp3.1\DN_csv.AssemblyInfoInputs.cache
+E:\VsCodeProjects\GIT\Test\DN_csv\obj\Debug\netcoreapp3.1\DN_csv.AssemblyInfo.cs
+E:\VsCodeProjects\GIT\Test\DN_csv\obj\Debug\netcoreapp3.1\DN_csv.dll
+E:\VsCodeProjects\GIT\Test\DN_csv\obj\Debug\netcoreapp3.1\DN_csv.pdb
