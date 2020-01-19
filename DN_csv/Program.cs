@@ -8,16 +8,16 @@ namespace DotNetCSV
     {
         static void Main(string[] args)
         {
-            using(var reader = new System.IO.StreamReader(@"csv/data__2019-11-28.csv"))
+            using(var reader = new StreamReader(@"csv/data__2019-11-28.csv"))
             {
                 reader.ReadLine();
-                System.Collections.Generic.List<string> listA = new System.Collections.Generic.List<string>();
-                System.Collections.Generic.List<string> listB = new System.Collections.Generic.List<string>();
+                List<string> listA = new List<string>();
+                List<string> listB = new List<string>();
                 while (!reader.EndOfStream)
                 {
                     var line = reader.ReadLine();
                     var values = line.Split(',');
-
+                    
                     listA.Add(values[6]);
                     listB.Add(values[0]);
                 }
