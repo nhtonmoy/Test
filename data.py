@@ -8,13 +8,16 @@ with open('data__2019-11-28.csv', newline='') as csvfile:
     fCount=0
     for row in spamreader:
         policyNumber=row['policyNumber']
-        if policyNumber in uniq:
+        
+		if policyNumber in uniq:
             continue
+			
         uniq[policyNumber]=1
         i=i+1
 
         gender=row['gender']
-        if gender=="FEMALE":
+        
+		if gender=="FEMALE":
             fCount=fCount+1
         elif gender=="MALE":
             mCount=mCount+1
