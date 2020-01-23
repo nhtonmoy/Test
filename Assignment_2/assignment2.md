@@ -15,25 +15,18 @@
 7. In which weekday do the employees leave office faster on an average?
 8. In which weekday do the employees leave office later on an average?
 9. Which is the most used way for Identification?
-10. What percentage of employees come to office before 10 am on each day?
+10. What percentage of employees come to the office before 10 am on each day?
 11. What is the most frequent exception detection?
 12. In which weekday is the attendance rate higher on an average?
 13. Which employee comes faster on an average?
 14. Which employee comes later on an average?
-15. Which employee leave faster on an average?
-16. Which employee leave later on an average?
+15. Which employee leaves faster on an average?
+16. Which employee leaves later on an average?
 17. How many employees from every department were present on a particular day?
 18. Who is present at a particular time?
-19. Who stays longer at office on an average?
+19. Who stays longer at the office on an average?
 
-Test **bold text** *italic* ***bold and italic***
-Test newline
->Test blockquote
->Test blockquote 2
->OK
+## Answers
 
-1. List 1
-2. List 2
-    1. SubList 1
-    2. SubList 2
-3. List 3
+* For Questions no. 1, 2, 3 & 4, the graph to visualize data would look like this- ![Questions 1,2,3,4](images/Q1,2,3,4.png)
+* For Questions no.
