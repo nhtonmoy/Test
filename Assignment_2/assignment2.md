@@ -29,4 +29,4 @@
 ## Answers
 
 * For Questions no. 1, 2, 3 & 4, the graph to visualize data would look like this- ![Questions 1,2,3,4](images/Q1,2,3,4.png)
-* For Questions no.
+* For Questions no. 5, 6, 7 & 8, the graph to visualize data would look like this- ![Questions 5,6,7,8](images/Q5,6,7,8.png)
