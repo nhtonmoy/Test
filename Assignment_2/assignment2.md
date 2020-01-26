@@ -33,3 +33,5 @@
 * For Questions no. 5, 6, 7 & 8, the graph to visualize data would look like this- ![Questions 5,6,7,8](images/Q5,6,7,8.png)
 
 * For Question no. 9, the graph to visualize data would look like this- ![Question 9](images/Q9.png)
+
+* For Question no. 11, the graph to visualize data would look like this- ![Question 11](images/Q11.png)
